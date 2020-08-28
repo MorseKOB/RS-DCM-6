@@ -1,0 +1,21 @@
+# Power Supply
+TANDY AC ADAPTER for use with MODEM DCM-6
+## Front
+* MODEL: 26-1393
+* INPUT: 120V AC 60Hz 7W
+* OUTPUT: 15V AC 300mA
+* UL LISTED: 20J8 E82323
+* CUSTOM MFD. IN TAIWAN FOR RADIO SHACK  
+  A DIVISION OF TANDY CORPORATION  
+  FORT WORTH, TEXAS 76102
+## Back
+PRECAUTION  
+DOMESTIQUE  
+USAGE SEULEMENT  
+CAUTION  
+INDOOR USE ONLY  
+SA-428
+## Dimensions (approx)
+2" x 2.5" x 1.5" (not including power prongs)
+## Connector
+Mini (3.5mm / 1/8) mono phono plug.

@@ -1,5 +1,5 @@
 # RS-DCM-6
-Radio Shack Direct Connect Modem DCM-6 used for dial-up MORSE telegraphy
+Radio Shack (TANDY) Direct Connect Modem DCM-6 used for dial-up MORSE telegraphy
 
 This contains information about the DCM-6 modem that was the 'go-to' device for dial-up telegraphy.
 
@@ -10,6 +10,8 @@ pulled from their website.
 
 Hopefully it will be obvious where the content is from me and where it is from another source. I 
 am not trying to ingringe on any copyrights by pulling this useful information together.
+
+Thank you to https://www.digchip.com/ for most of the PDF datasheet copies.
 
 ## About the Device
 The Radio Shack (Tandy Computer Products) DCM-6 (#26-1393) is a 300 BUAD MODEM device that 
